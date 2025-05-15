@@ -180,7 +180,7 @@ fg = "#d0d0d0"
 
 [manager]
 border_symbol = "│"
-syntect_theme = "/nix/store/ybpb46p1qh4z2d46vsiq1gi0cw8nalzp-zenwritten.tmTheme"
+syntect_theme = "./zenwritten.tmTheme"
 tab_width = 1
 [manager.border_style]
 fg = "#404040"
