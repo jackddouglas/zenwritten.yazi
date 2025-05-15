@@ -180,7 +180,7 @@ fg = "#d0d0d0"
 
 [manager]
 border_symbol = "│"
-syntect_theme = "./zenwritten.tmTheme"
+syntect_theme = "~/.config/yazi/flavors/zenwritten.yazi/zenwritten.tmTheme"
 tab_width = 1
 [manager.border_style]
 fg = "#404040"
